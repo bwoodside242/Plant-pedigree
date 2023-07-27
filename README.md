@@ -533,11 +533,4 @@ appraisal rake test
 appraisal sqlite3-ar-50 rake test
 ```
 
-# Contributing and license
 
-Question? Bug report? Faulty/incomplete documentation? Feature request? Please
-post an issue on 'http://github.com/stefankroes/ancestry/issues'. Make sure
-you have read the documentation and you have included tests and documentation
-with any pull request.
-
-Copyright (c) 2016 Stefan Kroes, released under the MIT license
